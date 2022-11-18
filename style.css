@@ -1,3 +1,4 @@
+
 #icon {
     margin: 00px 20px 00px 20px;
 }
@@ -757,4 +758,8 @@ ol {
 #title3{
     font-size: 14px;
 }
+}
+#nav1:hover{
+background-color: #3b3939;
+color: #d74059;
 }
