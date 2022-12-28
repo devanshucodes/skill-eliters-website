@@ -1,6 +1,6 @@
 
 
-<h1 align="center">FINADEL</h1>
+<h1 align="center">Skill Eliters Website </h1>
 
 
 <p align="center">
