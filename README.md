@@ -30,14 +30,6 @@ This repository contains the assets required to build the [ SKILL ELITERS ](http
 </p>
 
 
-<h3 align="center"> Glimpses
- </h3>
-<img width="1440" alt="Shopkeeper Portal" src="https://user-images.githubusercontent.com/86067292/187046299-4dd66e47-cf81-4936-91b1-c16d0e8e41fb.png">
-
-<h3 align="center"> Admin Portal </h3>
-
-<img width="1440" alt="Admin Portal" src="https://user-images.githubusercontent.com/86067292/187046263-285e26bd-d843-4867-90de-a0c9b4ad140c.png">
-
 
 
 ##  ❤️ Thanks to all Contributors
