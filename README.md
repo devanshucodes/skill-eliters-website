@@ -24,8 +24,9 @@ This repository contains the assets required to build the [ SKILL ELITERS ](http
 <h3 align="center"> User Portal </h3>
 <p align="center">
 
-<img width="500" alt="User Portal" src="https://user-images.githubusercontent.com/86067292/187046071-c6fd596b-5dd1-45c1-81c8-c85a9abdc218.png">
-<img width="500" alt="Shop" src="https://user-images.githubusercontent.com/86067292/187046057-0bcd66ad-d13b-4759-acb5-3cc2fe5eb93b.png">
+<img width="1440" alt="Screenshot 2022-12-28 at 4 56 20 PM" src="https://user-images.githubusercontent.com/86067292/209808379-eb286a6d-9c44-4b48-a0f0-27e999555246.png">
+
+
 
 </p>
 
