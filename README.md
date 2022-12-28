@@ -12,7 +12,7 @@
 
 
 
-This repository contains the assets required to build the [ SKILL ELITERS ](https://finadel1.github.io/Finadel_Website/) Website . 
+This repository contains the assets required to build the [ SKILL ELITERS ](https://github.com/devanshu0605/skill-eliters-website) Website . 
 
 
 # An overview of the website
