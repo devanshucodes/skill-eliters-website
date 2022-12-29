@@ -39,7 +39,7 @@ This repository contains the assets required to build the [ SKILL ELITERS ](http
 Thanks a lot for spending your time helping us grow. Thanks a lot! Keep rocking 🍻
 <p> 
  
-[![Contributors](https://contrib.rocks/image?repo=finadel1/Finadel_Website)](https://github.com/Finadel1/Finadel_Website)
+[![Contributors](https://github.com/devanshu0605/skill-eliters-website)](https://github.com/devanshu0605/skill-eliters-website)
  
 </p>
 
