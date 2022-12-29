@@ -23,6 +23,7 @@ This repository contains the assets required to build the [ SKILL ELITERS ](http
 
 <h3 align="center"> Info Section </h3>
 <p align="center">
+<img width="500" alt="Screenshot 2022-12-28 at 5 00 09 PM" src="https://user-images.githubusercontent.com/86067292/209910978-004458be-0dda-4a5b-ad15-8d304bde120e.png">
 
 <img width="500" alt="Screenshot 2022-12-28 at 4 56 20 PM" src="https://user-images.githubusercontent.com/86067292/209808379-eb286a6d-9c44-4b48-a0f0-27e999555246.png">
 
