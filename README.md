@@ -38,8 +38,8 @@ This repository contains the assets required to build the [ SKILL ELITERS ](http
 
 Thanks a lot for spending your time helping us grow. Thanks a lot! Keep rocking 🍻
 <p> 
- 
-[![Contributors](https://github.com/devanshu0605/skill-eliters-website)](https://github.com/devanshu0605/skill-eliters-website)
+
+ [![Contributors](https://contrib.rocks/image?repo=devanshu0605/skill-eliters-website)](https://github.com/devanshu0605/skill-eliters-website)
  
 </p>
 
