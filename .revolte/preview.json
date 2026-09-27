@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "start": "serve -l tcp://0.0.0.0:4173",
+  "port": 4173,
+  "install": [
+    {
+      "name": "Static file server",
+      "check": "command -v serve >/dev/null 2>&1",
+      "run": "npm install --global serve"
+    }
+  ]
+}
