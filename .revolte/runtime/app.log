@@ -1,0 +1,41 @@
+ INFO  Accepting connections at http://0.0.0.0:4173
+ HTTP  9/27/2026 9:48:53 AM 127.0.0.1 GET /
+ HTTP  9/27/2026 9:48:53 AM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 200 in 2 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /Images/IMG_20221019_174815.jpg
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /Images/icon.png
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /style.css
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 304 in 2 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 200 in 2 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 200 in 5 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /Images/IMG20221017131202.jpg
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /js/site.js
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /Images/Screenshot%202022-10-18%20at%2012.03.32%20AM.png
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 GET /Images/Screenshot%202022-10-25%20at%2012.57.37%20AM.png
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 304 in 7 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 304 in 9 ms
+ HTTP  9/27/2026 9:54:02 AM 10.12.0.2 Returned 200 in 14 ms
+ HTTP  9/27/2026 9:54:12 AM 10.12.0.2 GET /
+ HTTP  9/27/2026 9:54:12 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /Images/icon.png
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /style.css
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /Images/IMG_20221019_174815.jpg
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /Images/Screenshot%202022-10-25%20at%2012.57.37%20AM.png
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /Images/Screenshot%202022-10-18%20at%2012.03.32%20AM.png
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /js/site.js
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /Images/IMG20221017131202.jpg
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 200 in 1 ms
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 GET /
+ HTTP  9/27/2026 9:54:13 AM 10.12.0.2 Returned 304 in 1 ms
+ HTTP  9/27/2026 9:54:18 AM 10.12.0.2 GET /Images/icon-removebg-preview.png
+ HTTP  9/27/2026 9:54:18 AM 10.12.0.2 Returned 200 in 2 ms
+ HTTP  9/27/2026 9:54:18 AM 10.12.0.2 GET /Images/icon-removebg-preview.png
+ HTTP  9/27/2026 9:54:18 AM 10.12.0.2 Returned 304 in 0 ms
